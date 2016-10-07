@@ -1,0 +1,9 @@
+Ingredient
+- Ramen
+- 500ml water
+- 1 egg
+
+Directions:
+1. Put the water in the hot pot and boil it.
+2. After boiling the water put the Ramen first.
+3. put the source and egg.
